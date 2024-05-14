@@ -23,11 +23,11 @@ To extract the files, follow these steps:
 
 ## **License**
 
-Project Title is released under the MIT License. See the **[LICENSE](https://opensource.org/license/mit)** file for details.
+Depression vs GDP Analysis is released under the MIT License. See the **[LICENSE](https://opensource.org/license/mit)** file for details.
 
 ## **Authors and Acknowledgment**
 
-Project Title was created by **[Vishodhan Krishnan](https://github.com/Vishodhan)**.
+Depression vs GDP Analysis was created by **[Vishodhan Krishnan](https://github.com/Vishodhan)**.
 
 Additional contributors include:
 
