@@ -1,14 +1,14 @@
 ## **Depression vs GDP Analysis**
 
-Mental health disorders like depression and anxiety can hamper the overall productivity and mental wellbeing of a person in the long run. Such disorders can affect work productivity and in turn the GDP of a country.
-This project aims to understand and discover the correlation between number of people suffering from depression and its impact and effect on the overall GDP of a country. 
-The objective is to visualize how these parameters are related for different countries (India, USA, U.A.E, Australia) and try to predict the depression count in a country based on the GDP using Linear regression and polynomial regression algorithms.
-The outcome of the project is the discovery of the sparsity of the data which lead to poor model performance.
+Mental health disorders like depression and anxiety can hamper the overall productivity and mental wellbeing of a person in the long run. Such disorders can affect work productivity and in turn the GDP of a country. 
+This project aims to understand and discover the correlation between number of people suffering from depression and its impact and effect on the overall GDP of a country. <br>
+The objective is to visualize how these parameters are related for different countries (India, USA, U.A.E, Australia) and try to predict the depression count in a country based on the GDP using Linear regression and polynomial regression algorithms. <br>
+The outcome of the project is the discovery of the sparsity of the data which lead to poor model performance. <br>
 However, with the correlation as the main aim of the project, we were able to visualize and understand how these factors affect each other.
 
 
 ## **Data**
-The datasets used for this project has been fetched from ourworldindata.org. In case you'd like to explore the datasets on your own, given below are the links.
+The datasets used for this project has been fetched from ourworldindata.org. In case you'd like to explore the datasets on your own, given below are the links. <br>
 https://ourworldindata.org/grapher/depressive-disorders-prevalence-ihme
 https://ourworldindata.org/grapher/depressive-disorders-prevalence-vs-gdp-per-capita
 
